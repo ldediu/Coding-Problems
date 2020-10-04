@@ -10,3 +10,4 @@ My repository of solved coding problems.
 * [141. Linked List Cycle](./Leetcode/141.md) (&#129001; Easy) (Two pointers)
 * [707. Design Linked List](./Leetcode/707.md) (&#128999; Med) (Linked list)
 * [362. Design Hit Counter](./Leetcode/362.md) (&#128999; Med) (OOP)
+* [22. Generate Parentheses](./Leetcode/22.md) (&#128999; Med) (Backtracking)
