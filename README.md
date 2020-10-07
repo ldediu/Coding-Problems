@@ -13,4 +13,4 @@ My repository of solved coding problems.
 * [22. Generate Parentheses](./Leetcode/22.md) (&#128999; Med) (Backtracking)
 * [1009. Complement of Base 10 Integer](./Leetcode/1009.md) (&#129001; Easy) 
 * [701. Insert into a Binary Search Tree](./Leetcode/701.md) (&#128999; Med) (Recursion)
-
+* [1051. Height Checker](./Leetcode/1051.md) (&#129001; Easy) 
