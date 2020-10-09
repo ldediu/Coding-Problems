@@ -15,3 +15,4 @@ My repository of solved coding problems.
 * [701. Insert into a Binary Search Tree](./Leetcode/701.md) (&#128999; Med) (Recursion)
 * [1051. Height Checker](./Leetcode/1051.md) (&#129001; Easy)
 * [170. Two Sum III - Data structure design](./Leetcode/170.md) (&#129001; Easy) (Hashmap)
+* [1008. Construct Binary Search Tree from Preorder Traversal](./Leetcode/1008.md) (&#128999; Med) (BST, DFS)
