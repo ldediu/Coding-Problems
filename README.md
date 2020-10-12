@@ -18,4 +18,5 @@ My repository of solved coding problems.
 * [1008. Construct Binary Search Tree from Preorder Traversal](./Leetcode/1008.md) (&#128999; Med) (BST, DFS)
 * [299. Bulls and Cows](./Leetcode/299.md) (&#128999; Med) (Hashmap)
 * [859. Buddy Strings](./Leetcode/859.md) (&#129001; Easy) 
+* [841. Keys and Rooms](./Leetcode/841.md) (&#128999; Med) (Stack)
 
