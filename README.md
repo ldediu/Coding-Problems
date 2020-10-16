@@ -19,4 +19,5 @@ My repository of solved coding problems.
 * [299. Bulls and Cows](./Leetcode/299.md) (&#128999; Med) (Hashmap)
 * [859. Buddy Strings](./Leetcode/859.md) (&#129001; Easy) 
 * [841. Keys and Rooms](./Leetcode/841.md) (&#128999; Med) (Stack)
+* [74. Search a 2D Matrix](./Leetcode/74.md) (&#128999; Med) (Binary search)
 
