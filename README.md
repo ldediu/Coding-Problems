@@ -20,4 +20,5 @@ My repository of solved coding problems.
 * [859. Buddy Strings](./Leetcode/859.md) (&#129001; Easy) 
 * [841. Keys and Rooms](./Leetcode/841.md) (&#128999; Med) (Stack)
 * [74. Search a 2D Matrix](./Leetcode/74.md) (&#128999; Med) (Binary search)
+* [187. Repeated DNA Sequences](./Leetcode/187.md) (&#128999; Med) (Sliding window, Hashmap)
 
