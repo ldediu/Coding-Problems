@@ -21,4 +21,5 @@ My repository of solved coding problems.
 * [841. Keys and Rooms](./Leetcode/841.md) (&#128999; Med) (Stack)
 * [74. Search a 2D Matrix](./Leetcode/74.md) (&#128999; Med) (Binary search)
 * [187. Repeated DNA Sequences](./Leetcode/187.md) (&#128999; Med) (Sliding window, Hashmap)
+* [253. Meeting Rooms II](./Leetcode/253.md) (&#128999; Med) (Queue)
 
