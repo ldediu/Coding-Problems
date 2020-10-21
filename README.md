@@ -23,4 +23,4 @@ My repository of solved coding problems.
 * [187. Repeated DNA Sequences](./Leetcode/187.md) (&#128999; Med) (Sliding window, Hashmap)
 * [253. Meeting Rooms II](./Leetcode/253.md) (&#128999; Med) (Queue)
 * [1007. Minimum Domino Rotations For Equal Row](./Leetcode/1007.md) (&#128999; Med) (Hashmap)
-
+* [735. Asteroid Collision](./Leetcode/735.md) (&#128999; Med) (Stack)
