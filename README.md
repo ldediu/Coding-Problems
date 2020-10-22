@@ -24,3 +24,4 @@ My repository of solved coding problems.
 * [253. Meeting Rooms II](./Leetcode/253.md) (&#128999; Med) (Queue)
 * [1007. Minimum Domino Rotations For Equal Row](./Leetcode/1007.md) (&#128999; Med) (Hashmap)
 * [735. Asteroid Collision](./Leetcode/735.md) (&#128999; Med) (Stack)
+* [702. Search in a Sorted Array of Unknown Size](./Leetcode/702.md) (&#128999; Med) (Binary search)
