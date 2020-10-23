@@ -25,3 +25,4 @@ My repository of solved coding problems.
 * [1007. Minimum Domino Rotations For Equal Row](./Leetcode/1007.md) (&#128999; Med) (Hashmap)
 * [735. Asteroid Collision](./Leetcode/735.md) (&#128999; Med) (Stack)
 * [702. Search in a Sorted Array of Unknown Size](./Leetcode/702.md) (&#128999; Med) (Binary search)
+* [451. Sort Characters By Frequency](./Leetcode/451.md) (&#128999; Med) (Hashmap, Bucket sort)
