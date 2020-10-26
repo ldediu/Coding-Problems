@@ -27,3 +27,4 @@ My repository of solved coding problems.
 * [702. Search in a Sorted Array of Unknown Size](./Leetcode/702.md) (&#128999; Med) (Binary search)
 * [451. Sort Characters By Frequency](./Leetcode/451.md) (&#128999; Med) (Hashmap, Bucket sort)
 * [695. Max Area of Island](./Leetcode/695.md) (&#128999; Med) (DFS, Recursion)
+* [946. Validate Stack Sequences](./Leetcode/946.md) (&#128999; Med) (Stack, Greedy)
