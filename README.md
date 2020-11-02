@@ -31,4 +31,4 @@ My repository of solved coding problems.
 * [946. Validate Stack Sequences](./Leetcode/946.md) (&#128999; Med) (Stack, Greedy)
 * [280. Wiggle Sort](./Leetcode/280.md) (&#128999; Med)
 * [784. Letter Case Permutation](./Leetcode/784.md) (&#128999; Med) (BFS)
-
+* [147. Insertion Sort List](./Leetcode/147.md) (&#128999; Med) (Insertion sort, Linked list)
