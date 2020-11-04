@@ -32,3 +32,4 @@ My repository of solved coding problems.
 * [280. Wiggle Sort](./Leetcode/280.md) (&#128999; Med)
 * [784. Letter Case Permutation](./Leetcode/784.md) (&#128999; Med) (BFS)
 * [147. Insertion Sort List](./Leetcode/147.md) (&#128999; Med) (Insertion sort, Linked list)
+* [3. Longest Substring Without Repeating Characters](./Leetcode/3.md) (&#128999; Med) (Sliding window)
