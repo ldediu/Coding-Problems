@@ -34,3 +34,4 @@ My repository of solved coding problems.
 * [147. Insertion Sort List](./Leetcode/147.md) (&#128999; Med) (Insertion sort, Linked list)
 * [3. Longest Substring Without Repeating Characters](./Leetcode/3.md) (&#128999; Med) (Sliding window)
 * [1428. Leftmost Column with at Least a One](./Leetcode/1428.md) (&#128999; Med)
+* [1283. Find the Smallest Divisor Given a Threshold](./Leetcode/1283.md) (&#128999; Med) (Binary search)
