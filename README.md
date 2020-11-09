@@ -36,3 +36,4 @@ My repository of solved coding problems.
 * [1428. Leftmost Column with at Least a One](./Leetcode/1428.md) (&#128999; Med)
 * [1283. Find the Smallest Divisor Given a Threshold](./Leetcode/1283.md) (&#128999; Med) (Binary search)
 * [445. Add Two Numbers II](./Leetcode/445.md) (&#128999; Med) (Linked list)
+* [1026. Maximum Difference Between Node and Ancestor](./Leetcode/1026.md) (&#128999; Med) (DFS, Binary tree)
