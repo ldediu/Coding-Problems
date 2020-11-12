@@ -38,3 +38,4 @@ My repository of solved coding problems.
 * [445. Add Two Numbers II](./Leetcode/445.md) (&#128999; Med) (Linked list)
 * [1026. Maximum Difference Between Node and Ancestor](./Leetcode/1026.md) (&#128999; Med) (DFS, Binary tree)
 * [1198. Find Smallest Common Element in All Rows](./Leetcode/1026.md) (&#128999; Med) (Hashmap)
+* [46. Permutations](./Leetcode/46.md) (&#128999; Med) (Backtracking)
