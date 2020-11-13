@@ -39,3 +39,4 @@ My repository of solved coding problems.
 * [1026. Maximum Difference Between Node and Ancestor](./Leetcode/1026.md) (&#128999; Med) (DFS, Binary tree)
 * [1198. Find Smallest Common Element in All Rows](./Leetcode/1026.md) (&#128999; Med) (Hashmap)
 * [46. Permutations](./Leetcode/46.md) (&#128999; Med) (Backtracking)
+* [116. Populating Next Right Pointers in Each Node](./Leetcode/116.md) (&#128999; Med) (BFS, BST)
