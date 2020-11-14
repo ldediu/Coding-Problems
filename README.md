@@ -19,7 +19,7 @@ My repository of solved coding problems.
 * [1008. Construct Binary Search Tree from Preorder Traversal](./Leetcode/1008.md) (&#128999; Med) (BST, DFS)
 * [299. Bulls and Cows](./Leetcode/299.md) (&#128999; Med) (Hashmap)
 * [859. Buddy Strings](./Leetcode/859.md) (&#129001; Easy) 
-* [841. Keys and Rooms](./Leetcode/841.md) (&#128999; Med) (Stack)
+* [841. Keys and Rooms](./Leetcode/841.md) (&#128999; Med) (1.DFS, Graph | 2.Stack)
 * [74. Search a 2D Matrix](./Leetcode/74.md) (&#128999; Med) (Binary search)
 * [187. Repeated DNA Sequences](./Leetcode/187.md) (&#128999; Med) (Sliding window, Hashmap)
 * [253. Meeting Rooms II](./Leetcode/253.md) (&#128999; Med) (Queue)
