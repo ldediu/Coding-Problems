@@ -41,3 +41,4 @@ My repository of solved coding problems.
 * [46. Permutations](./Leetcode/46.md) (&#128999; Med) (Backtracking)
 * [116. Populating Next Right Pointers in Each Node](./Leetcode/116.md) (&#128999; Med) (BFS, BST)
 * [1272. Remove Interval](./Leetcode/1272.md) (&#128999; Med)
+* [845. Longest Mountain in Array](./Leetcode/845.md) (&#128999; Med)
