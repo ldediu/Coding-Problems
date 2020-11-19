@@ -44,3 +44,4 @@ My repository of solved coding problems.
 * [845. Longest Mountain in Array](./Leetcode/845.md) (&#128999; Med)
 * [1100. Find K-Length Substrings With No Repeated Characters](./Leetcode/1100.md) (&#128999; Med) (Hashmap)
 * [56. Merge Intervals](./Leetcode/56.md) (&#128999; Med) (Stack)
+* [394. Decode String](./Leetcode/394.md) (&#128999; Med) (Stack)
