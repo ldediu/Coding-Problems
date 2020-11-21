@@ -46,3 +46,4 @@ My repository of solved coding problems.
 * [56. Merge Intervals](./Leetcode/56.md) (&#128999; Med) (Stack)
 * [394. Decode String](./Leetcode/394.md) (&#128999; Med) (Stack)
 * [33. Search in Rotated Sorted Array](./Leetcode/33.md) (&#128999; Med) (Binary search)
+* [1660. Correct a Binary Tree](./Leetcode/1660.md) (&#128999; Med) (DFS, Binary tree)
