@@ -48,3 +48,4 @@ My repository of solved coding problems.
 * [33. Search in Rotated Sorted Array](./Leetcode/33.md) (&#128999; Med) (Binary search)
 * [1660. Correct a Binary Tree](./Leetcode/1660.md) (&#128999; Med) (DFS, Binary tree)
 * [159. Longest Substring with At Most Two Distinct Characters](./Leetcode/159.md) (&#128999; Med) (Sliding window, Hashmap)
+* [102. Binary Tree Level Order Traversal](./Leetcode/102.md) (&#128999; Med) (BFS, Binary tree)
