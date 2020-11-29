@@ -51,3 +51,4 @@ My repository of solved coding problems.
 * [102. Binary Tree Level Order Traversal](./Leetcode/102.md) (&#128999; Med) (BFS, Binary tree)
 * [227. Basic Calculator II](./Leetcode/227.md) (&#128999; Med) (Stack)
 * [113. Path Sum II](./Leetcode/113.md) (&#128999; Med) (DFS, Binary tree)
+* [1306. Jump Game III](./Leetcode/1306.md) (&#128999; Med) (1.DFS | 2.BFS)
