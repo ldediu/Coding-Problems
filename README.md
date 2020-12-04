@@ -53,3 +53,4 @@ My repository of solved coding problems.
 * [113. Path Sum II](./Leetcode/113.md) (&#128999; Med) (DFS, Binary tree)
 * [1306. Jump Game III](./Leetcode/1306.md) (&#128999; Med) (1.DFS | 2.BFS)
 * [1120. Maximum Average Subtree](./Leetcode/1120.md) (&#128999; Med) (DFS)
+* [1476. Subrectangle Queries](./Leetcode/1476.md) (&#128999; Med)
