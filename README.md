@@ -55,3 +55,4 @@ My repository of solved coding problems.
 * [1306. Jump Game III](./Leetcode/1306.md) (&#128999; Med) (1.DFS | 2.BFS)
 * [1120. Maximum Average Subtree](./Leetcode/1120.md) (&#128999; Med) (DFS)
 * [1476. Subrectangle Queries](./Leetcode/1476.md) (&#128999; Med)
+* [1010. Pairs of Songs With Total Durations Divisible by 60](./Leetcode/1010.md) (&#128999; Med) (Hashmap)
