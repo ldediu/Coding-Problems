@@ -56,3 +56,4 @@ My repository of solved coding problems.
 * [1120. Maximum Average Subtree](./Leetcode/1120.md) (&#128999; Med) (DFS)
 * [1476. Subrectangle Queries](./Leetcode/1476.md) (&#128999; Med)
 * [1010. Pairs of Songs With Total Durations Divisible by 60](./Leetcode/1010.md) (&#128999; Med) (Hashmap)
+* [173. Binary Search Tree Iterator](./Leetcode/173.md) (&#128999; Med) (BST)
