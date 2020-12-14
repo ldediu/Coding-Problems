@@ -58,3 +58,4 @@ My repository of solved coding problems.
 * [1010. Pairs of Songs With Total Durations Divisible by 60](./Leetcode/1010.md) (&#128999; Med) (Hashmap)
 * [173. Binary Search Tree Iterator](./Leetcode/173.md) (&#128999; Med) (BST)
 * [865. Smallest Subtree with all the Deepest Nodes](./Leetcode/865.md) (&#128999; Med) (Binary tree, Recursion)
+* [131. Palindrome Partitioning](./Leetcode/131.md) (&#128999; Med) (Backtracking)
