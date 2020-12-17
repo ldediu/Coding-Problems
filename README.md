@@ -60,3 +60,4 @@ My repository of solved coding problems.
 * [173. Binary Search Tree Iterator](./Leetcode/173.md) (&#128999; Med) (BST)
 * [865. Smallest Subtree with all the Deepest Nodes](./Leetcode/865.md) (&#128999; Med) (Binary tree, Recursion)
 * [131. Palindrome Partitioning](./Leetcode/131.md) (&#128999; Med) (Backtracking)
+* [369. Plus One Linked List](./Leetcode/369.md) (&#128999; Med) (Linked list)
