@@ -63,3 +63,4 @@ My repository of solved coding problems.
 * [369. Plus One Linked List](./Leetcode/369.md) (&#128999; Med) (Linked list)
 * [807. Max Increase to Keep City Skyline](./Leetcode/807.md) (&#128999; Med)
 * [1602. Find Nearest Right Node in Binary Tree](./Leetcode/1602.md) (&#128999; Med) (BFS, Binary tree)
+* [1490. Clone N-ary Tree](./Leetcode/1490.md) (&#128999; Med) (DFS)
