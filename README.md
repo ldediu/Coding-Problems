@@ -65,3 +65,4 @@ My repository of solved coding problems.
 * [1602. Find Nearest Right Node in Binary Tree](./Leetcode/1602.md) (&#128999; Med) (BFS, Binary tree)
 * [1490. Clone N-ary Tree](./Leetcode/1490.md) (&#128999; Med) (DFS)
 * [328. Odd Even Linked List](./Leetcode/328.md) (&#128999; Med) (Linked list)
+* [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./Leetcode/1379.md) (&#128999; Med) (DFS, Binary tree)
