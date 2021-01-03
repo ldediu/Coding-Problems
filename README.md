@@ -69,3 +69,4 @@ My repository of solved coding problems.
 * [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./Leetcode/1379.md) (&#128999; Med) (DFS, Binary tree)
 * [1079. Letter Tile Possibilities](./Leetcode/1079.md) (&#128999; Med) (Recursion)
 * [1457. Pseudo-Palindromic Paths in a Binary Tree](./Leetcode/1457.md) (&#128999; Med) (DFS, Hashmap, Binary tree)
+* [200. Number of Islands](./Leetcode/200.md) (&#128999; Med) (DFS)
